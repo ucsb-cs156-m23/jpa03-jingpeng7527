@@ -9,7 +9,7 @@ Running at: <https://jpa03-cgaucho.dokku-13.cs.ucsb.edu>
 Then remove this TODO item.
 ```
 
-Running at: <https://ucsb-cs156-m23.github.io/jpa03-jingpeng7527/>
+Running at: <https://jpa03-jingpeng7527.dokku-00.cs.ucsb.edu)>
 
 # Configuring GitHub Pages for the documentation
 
